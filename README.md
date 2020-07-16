@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Dev for FUN!!!
+
+- Work: Research and Development Coordinator at Totvs
+- Open Source: https://po-ui.io
+- GitHub: https://github.com/jhosefmarks
+- Medium: https://medium.com/@jhosefmarks
+- LinkedIn: https://www.linkedin.com/in/jhosefmarks
+- Twitter: https://twitter.com/jhosefmarks
+- Web: Comming soon
+
+> Card: npx @jhosefmarks/card
