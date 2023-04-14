@@ -26,3 +26,8 @@ Dev for FUN!!!
 - Web: Comming soon
 
 > Card: npx @jhosefmarks/card
+
+### Total Profile Views :detective: 
+<img src="https://profile-counter.glitch.me/jhosefmarks/count.svg" />
+
+<hr>
